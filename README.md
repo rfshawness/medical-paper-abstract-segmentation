@@ -1,2 +1,2 @@
-# medical-paper-summarizer
-Fine-Tuning an LLM for Medical Paper Summarization
+# medical-paper-abstract segmentation
+Fine-Tuning a Language Model for Medical Abstract Segmentation
